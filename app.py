@@ -16,4 +16,4 @@ final_X = X
 scaler = StandardScaler()
 scaled_X = scaler.fit_transform(final_X)
 
-st.sidebar.title('select House feature:')
+st.sidebar.title('Select House features: ')
