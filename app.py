@@ -23,6 +23,7 @@ for i in final_X:
   result = st.sidebar.slider(f'select {i} value')
   all_value.append(result)
 
- st.write(all_value) 
+st.write(all_value) 
+
 
 
